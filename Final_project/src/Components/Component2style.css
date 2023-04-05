@@ -1,0 +1,12 @@
+.comp2div1{
+    border-style: solid;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 30px;
+    background-color: rgb(121, 157, 204);
+}
+.credentials{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}

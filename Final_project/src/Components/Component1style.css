@@ -1,0 +1,16 @@
+.title{
+    padding-top: 2%;
+    text-align: center;
+}
+.div1{
+    padding-top: 2%;
+    background-color: rgb(165, 215, 232);
+    /* background-image: radial-gradient(circle,  rgb(26, 95, 122), rgb(0, 43, 91)); */
+    height: 100vh;
+    background-size: cover;
+}
+.line1{
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 3%;
+}

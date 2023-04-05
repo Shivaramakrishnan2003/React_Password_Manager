@@ -1,0 +1,10 @@
+.footer{
+    background-color: rgb(165, 215, 232);
+    padding-top: 0.5%;
+    padding-left: 8%;
+    border-top: 2%;
+
+    /* border-top-style: solid;
+    border-top-width: 1.75px;
+    border-top-color: rgb(175, 175, 175); */
+}
